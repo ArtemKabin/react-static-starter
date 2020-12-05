@@ -1,5 +1,8 @@
 # React-Static Starter
 
+
+peaceful-minsky-c69f55.netlify.app
+
 This repo is a ready-to-deploy mirror of React-Static's `basic` example template. It includes:
 - Babel
 - CSS imports
